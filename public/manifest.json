@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "short_name": "Slate Devtools",
+  "name": "Slate Devtools Extension",
+  "commands": {
+    "devtools-left": {
+      "description": "DevTools window to left"
+    },
+    "devtools-right": {
+      "description": "DevTools window to right"
+    },
+    "devtools-bottom": {
+      "description": "DevTools window to bottom"
+    },
+    "devtools-remote": {
+      "description": "Remote DevTools"
+    },
+    "_execute_page_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+E"
+      }
+    }
+  },
+  "icons": {
+    "16": "images/favicon.ico",
+    "48": "images/logo192.png",
+    "128": "images/logo512.png"
+  },
+  "page_action": {
+    "default_icon": "images/logo192.png",
+    "default_title": "Slate DevTools",
+    "default_popup": "window.html#popup"
+  },
+  "devtools_page": "devtools.html",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
