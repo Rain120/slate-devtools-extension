@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aa1cb15a-9a66-42df-ab3b-6cf8a607c9c4/deploy-status)](https://app.netlify.com/sites/slate-devtools-extension/deploys) [![Coverage Status](https://coveralls.io/repos/github/Rain120/slate-devtools-extension/badge.svg?branch=master)](https://coveralls.io/github/Rain120/slate-devtools-extension?branch=master) [![Build Status](https://travis-ci.org/Rain120/slate-devtools-extension.svg?branch=master)](https://travis-ci.org/Rain120/slate-devtools-extension)
+[![Coverage Status](https://coveralls.io/repos/github/Rain120/slate-devtools-extension/badge.svg?branch=master)](https://coveralls.io/github/Rain120/slate-devtools-extension?branch=master) [![Build Status](https://travis-ci.org/Rain120/slate-devtools-extension.svg?branch=master)](https://travis-ci.org/Rain120/slate-devtools-extension)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/rain120/slate-devtools-extension?style=social)](https://github.com/Rain120/slate-devtools-extension/watchers)
 [![STAR](https://img.shields.io/github/stars/rain120/slate-devtools-extension?style=social)](https://github.com/Rain120/slate-devtools-extension/stargazers) [![FORK](https://img.shields.io/github/forks/rain120/slate-devtools-extension?style=social)](https://github.com/Rain120/slate-devtools-extension/network/members)
